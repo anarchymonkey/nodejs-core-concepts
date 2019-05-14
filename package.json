@@ -1,0 +1,19 @@
+{
+  "name": "node_concept_understanding",
+  "version": "1.0.0",
+  "description": "a basic testing of nodejs and express",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "aniket batabyal",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "mongoose": "^5.5.8"
+  }
+}
